@@ -1,3 +1,24 @@
-#firework {
+#iu {
   height: 500px;
+}
+#top-nav {
+
+  font-size: x-large;
+}
+
+
+body {
+  background-color: rgb(180, 180, 180);
+
+  background-color: rgba(180, 180, 180, .8);
+
+  padding: 10px 25px 20px 25px;
+}
+
+html {
+  background: url(https://github.com/drew-t/drew-t.github.io/blob/master/resources/firework.jpg?raw=true) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
