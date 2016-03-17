@@ -1,3 +1,7 @@
 #firework {
   height: 500px;
 }
+
+p {
+  background-color: rgb(120, 120, 120);
+}
