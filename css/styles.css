@@ -6,6 +6,14 @@
   font-size: x-large;
 }
 
+ul {
+  list-style-type: none;
+
+}
+
+li {
+  display: inline;
+}
 
 body {
   background-color: rgb(180, 180, 180);
